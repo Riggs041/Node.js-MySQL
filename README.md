@@ -5,5 +5,5 @@ This application uses the command line to view inventory of an online auto deale
 
 The user is prompted to select the vehicle id that corresponds with the vehicle they would like to purchase.
 
-![Inventory](\Node.js-MySQL\assets\images\Inventory.PN)
+![Inventory](assets\images\Inventory.PNG)
 
